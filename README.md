@@ -15,4 +15,5 @@ I also used various performance criteria to evaluate the learning methods.
 * [Covertype Data Set](https://archive.ics.uci.edu/ml/datasets/covertype)
 
 ### Data Cleaning 
-_For the data cleaning potion, I followed exactly what was done in the original Cornell study ([ An Empirical Comparison of Supervised Learning Algorithms Using Different Performance Metrics](https://drive.google.com/file/d/1BACN9m5HB4KYKPzZrNjg_KCg0FGEd5sL/view?usp=sharing)). _
+_For the data cleaning potion, I followed exactly what was done in the original Cornell study. _
+
