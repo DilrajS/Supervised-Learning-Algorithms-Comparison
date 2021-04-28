@@ -45,7 +45,7 @@ settings to train the model one more time and ran it against the rest of the sam
 does and measured its accuracy
 
 
-### Expriment 
+### Experiment 
 
 For every data set, I did what is called a 5 fold cross validation on the training set of the 
 data. The training set was a size of 5000. For each set of data, I used piping in order to model 
