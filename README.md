@@ -64,4 +64,4 @@ performed best for which dataset in charts 3 and 4. (_Tables of all data are  be
 
 ### Results 
 
-![](https://lh3.googleusercontent.com/xyYLEizu00ySDuIOyv3Brv2bHsFFpad8yYxNGWm5dbi5brWdMvl3qsq7Q3Jw4auuZFh9hi9YliRi1g=w1920-h966)
+![Results](Images/Results.png )
