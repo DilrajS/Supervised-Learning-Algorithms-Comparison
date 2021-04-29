@@ -1,4 +1,4 @@
-# **Supervised-Learning-Algorithms-Comparison**
+# **Supervised-Learning-Algorithm-Comparisons**
 
 The last comprehensive evaluation of supervised learning was done in the 90’s. 
 Since then, multiple different experiments emerged. 
