@@ -42,7 +42,7 @@ with Bayesian smoothing), and MMLLS (MML with Laplacian smoothing). See (Provost
 Domingos, 2003) for a description of C44LS” ( Caruana, R. and Niculescu-Mizil). After this I 
 selected the best hyperparameter settings for the mean over all 5 folds. Then I used these 
 settings to train the model one more time and ran it against the rest of the samples to see how it 
-does and measured its accuracy
+does and measured its accuracy.
 
 
 ### Experiment 
