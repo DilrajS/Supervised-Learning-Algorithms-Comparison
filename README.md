@@ -1,5 +1,7 @@
 # **Supervised-Learning-Algorithm-Comparisons**
 
+<img scr="images/AIandDeepLearning.gif" width="200">
+
 The last comprehensive evaluation of supervised learning was done in the 90’s. 
 Since then, multiple different experiments emerged. 
 Rich Caruana and Alexandru Niculescu-Mizil conducted their own study (CNM06) in which they compared ten different supervised learning methods. 
