@@ -1,6 +1,5 @@
 # **Supervised-Learning-Algorithm-Comparisons**
-
-<img scr="images/AIandDeepLearning.gif" width="200">
+![AI](images/smallgif.gif)
 
 The last comprehensive evaluation of supervised learning was done in the 90’s. 
 Since then, multiple different experiments emerged. 
