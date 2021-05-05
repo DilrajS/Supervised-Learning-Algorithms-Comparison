@@ -69,8 +69,8 @@ performed best for which dataset in charts 3 and 4. (_Tables of all data are  be
 
 ### How to run locally
 1.	Go to https://colab.research.google.com 
-  (a.	Must have an internet connection 
-  b.	Must have a Gmail account)
+  (a.	Must have an internet connection. 
+  b.	Must have a Gmail account.)
 2.	Select “GitHub” in the open window and paste in this URL to copy the project 
 3.	Next download the dataset(s) used and upload it on Google Colab by clicking on the ‘Files’ icon on the left-hand side of the screen
 4.	Click ‘Runtime’ and select ‘Run all’  
